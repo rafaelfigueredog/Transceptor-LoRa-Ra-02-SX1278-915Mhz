@@ -7,3 +7,8 @@ Este projeto visa a criação de um Transceptor-LoRa-Ra-02-SX1278-915Mhz destina
   Allan Bispo <br />
   Lucas Mateus <br />
   Rafael Guimarães <br />
+  
+## Componentes
+
+- Transceptor LoRa Ra-02 SX1278 915Mhz
+- Microcontrolador ATmega328
