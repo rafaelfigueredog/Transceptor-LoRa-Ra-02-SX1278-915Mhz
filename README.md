@@ -12,3 +12,9 @@ Este projeto visa a criação de um Transceptor-LoRa-Ra-02-SX1278-915Mhz destina
 
 - Transceptor LoRa Ra-02 SX1278 915Mhz
 - Microcontrolador ATmega328
+- Bateria de 5v Li-ion
+
+## Aplicação - Monitoramento de Animais. 
+
+Esse projeto visa a criação de um dispositivo que disponibiliza a distância entre o animal e um ponto específico determinado pelo usuário do projeto auxiliando o dono a localizar o animal.  
+
