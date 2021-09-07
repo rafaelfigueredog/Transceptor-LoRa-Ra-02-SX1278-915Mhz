@@ -16,5 +16,5 @@ Este projeto visa a criação de um Transceptor-LoRa-Ra-02-SX1278-915Mhz destina
 
 ## Aplicação - Monitoramento de Animais. 
 
-Esse projeto visa a criação de um dispositivo que disponibiliza a distância entre o animal e um ponto específico determinado pelo usuário do projeto auxiliando o dono a localizar o animal.  
+Esse projeto visa a criação de um dispositivo que emite sinais de radio frequencia, de modo que seja possível estimar a distância entre o animal e um ponto específico determinado pelo usuário do projeto auxiliando o dono a localizar o animal.  
 
